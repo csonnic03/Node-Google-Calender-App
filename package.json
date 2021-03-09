@@ -1,0 +1,25 @@
+{
+  "name": "node-google-calender-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csonnic03/Node-Google-Calender-App.git"
+  },
+  "author": "Caleb Sonnichsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csonnic03/Node-Google-Calender-App/issues"
+  },
+  "homepage": "https://github.com/csonnic03/Node-Google-Calender-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^67.1.1",
+    "readline": "^1.3.0"
+  }
+}
