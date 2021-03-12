@@ -1,0 +1,15 @@
+body {
+    background-color: #536878 !important;
+}
+button {
+    height: 50px !important;
+    width: 100px !important;
+    background-color: grey !important;
+    color: white !important;
+}
+p {
+    color: #785356 !important;
+}
+h2{
+  font-family: cursive;  
+}
